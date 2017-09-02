@@ -1,0 +1,8 @@
+node_modules
+old
+old-sep-2-2017
+dist/
+*.png
+*.log
+*.DS_Store
+.idea
